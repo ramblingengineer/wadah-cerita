@@ -1,5 +1,5 @@
 # :star2: Wadah cerita para rambling engineer
-Tempat buat curhat dan cerita para tech enthusiast Indonesia.
+Tempat buat curhat, cerita dan tanya jawab para rambler Indonesia.
 
 Yuk langsung diskusi di [SINI](https://github.com/ramblingengineer/wadah-cerita/discussions).
 
