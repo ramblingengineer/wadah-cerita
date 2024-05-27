@@ -15,3 +15,9 @@ Gw dah buat beberapa kategori:
 - :question: Q&A - Buat ngejawab pertanyaan2 kalian entah itu tech atau non-tech pun boleh.
 - :books: War Room - Buat diskusi dan troubleshoot masalah koding
 - :open_hands: Voting - Tempat poll kalau ada tema yang pengen kalian dengarkan dari gw
+- 🏢 Kerja Luar Negri
+  - 🇪🇺 Diskusi kerja di Eropa
+  - 🇲🇾 Diskusi kerja di Malaysia
+  - ☃️ Diskusi kerja di negara lainnya
+
+
